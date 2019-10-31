@@ -1,0 +1,34 @@
+body {
+	background: paleturquoise;
+}
+h1 { font-family: "Papyrus";
+font-size:60px;
+color:coral;
+text-align: center;
+   -webkit-text-stroke-width: .5px;
+   -webkit-text-stroke-color: dimgray;
+}
+h2 { font-family: "Papyrus";
+color: #696969;}
+p { font-family: "Georgia";
+color: #696969;}
+
+li { font-family: "Georgia" ;
+color: #696969;
+text-align: justify-all;}
+
+div {font-family: "Geogria";}
+
+img {
+width:650px;
+border:5px solid dimgray;
+}
+
+#table-of-contents: { font-size: 72; }
+
+webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
