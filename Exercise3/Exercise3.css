@@ -1,0 +1,41 @@
+body {background: black;}
+
+	    #Logo {
+      width: 70px;
+      height: 40px;
+      border-radius: 5px;
+      background: white;}
+
+      #search {
+      width: 70px;
+      height: 40px;
+      background: orange;
+      border-radius: 5px;
+      position: relative;
+      left:70px;
+      bottom:40px; }
+
+      #r3 { width: 2000px;
+      height: 130px;
+      right:400px;
+      background: #1b1b1b;
+      position: relative;
+      bottom:87px;
+      z-index:-1
+       }
+
+      #r4 { width:750px;
+      	height: 30px;
+      	background:#363636;
+      	position: relative;
+      bottom:205px; 
+      left:150px;
+      border-radius: 2px}
+
+      #r5 {width:70px;
+      	height: 30px;
+      	background:orange;
+      	position: relative;
+      bottom:235px; 
+      left:912px;
+      border-radius: 3px}
