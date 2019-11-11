@@ -20,7 +20,6 @@ body {background: black;}
 
       #r3 { width: 99vw;
       height: 10vw;
-      right:400px;
       background: #1b1b1b;
       bottom:78%;
       z-index:-1
@@ -62,12 +61,14 @@ body {background: black;}
       border-radius: 3px}
 
       h1 {color:white;
+            font-size:3vw;
             position: relative;
             left: 320%;
-            bottom:105%;}
+            bottom:170%;}
 
       h2 { color:white;
             position: relative;
+            font-size:10vw;
             left: 320%;
             bottom:105%; }
 
