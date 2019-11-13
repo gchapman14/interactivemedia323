@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+#oval {position: absolute;
+	top:350px;
+	left: 340px;
+      width: 220px;
+      height: 115px;
+      background: black;
+      border-radius: 100px / 50px;
+    }
+
+#base {height: 500px;
+  width: 500px;
+  background-color: #555;
+  border-radius: 50%;
+  position: relative;
+  top:30px;
+  left:200px;}
+
+#neck {height: 450px;
+  width: 450px;
+  background-color: gray;
+  border-radius: 50%;
+  position: absolute;
+  top:55px;
+  left:225px;}
+
+#tab {height: 220px;
+  width: 160px;
+  position: absolute;
+  top: 140px;
+  left: 370px;
+  border-radius: 60px;
+  background-color: #555;
+}
+
+  #tabinside {border-radius: 60px;
+  	position: absolute;
+  top: 165px;
+  left: 390px;
+  height: 65px;
+  width: 120px;
+  background-color: gray;
+}
+
+#bottomcircle {
+      width: 75px;
+      height: 75px;
+      background: gray;
+      position: absolute;
+      top: 250px;
+      left: 413px;
+      border-radius: 50%
+    }
+
+    #tabinside2 {border-radius: 25px;
+  	position: absolute;
+  top: 290px;
+  left: 418px;
+  height: 40px;
+  width: 65px;
+  background-color: gray;
+}

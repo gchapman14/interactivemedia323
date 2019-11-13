@@ -1,0 +1,25 @@
+#R1 {
+  outline: 100px solid black;
+	height:350px;
+	width:1157px;
+	position: relative;
+	left:95px;
+	top:100px;
+	z-index:-1;
+	}
+
+#R2 {
+  outline: 50px solid black;
+	height:200px;
+	width:1050px;
+	position: relative;
+	left:148px;
+	top:-180px;}
+
+#R3 {
+  outline: 25px solid black;
+	height:107px;
+	width:993px;
+	position: relative;
+	left:176px;
+	top:-335px;}
