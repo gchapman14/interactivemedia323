@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+
+#L1 {font-size:10px;
+	text-align:center;
+color: white;}
+#L2 {font-size:50px;
+	text-align:left;
+color: white;}
+#L3 {position: absolute;
+	left: 500px;
+color: white;}
+#L4 {position: absolute;
+	left: 750px;
+top:1700px;
+color: white;}
+#L5 {position: absolute;
+	left: 350px;
+top:1750px;
+color: white;}
+#L6 {position: absolute;
+	left: 950px;
+top:1850px;
+color: white;}
+#L7 {position: absolute;
+	left: 650px;
+top:1950px;
+color: white;}
+#L8 {font-size: 150px;
+font-style: bold;
+font-family: univers65;
+color: white;}
+#L9 {font-size: 25px;
+text-align: center;
+color: white;}
+#L10 {font-size: 72px;
+text-align: center;
+color: white;}
+#L11 {font-size: 12px;
+text-align: center;
+color: white;}
+#L12 {font-size: 25px;
+text-align: left;
+color: white;}
+#L13 {font-size: 70px;
+text-align: center;
+color: white;}
+#L14 {font-size: 12px;
+text-align: right;
+color: white;}
+#L15 {font-size: 35px;
+color: white;}
+#L16 {font-size: 10px;
+text-align: center;
+color: white;}
+#L17 {font-size:100px;
+text-align: center; 
+color: white;}

@@ -1,0 +1,105 @@
+body {background: black;}
+
+#poem {color: black;
+text-shadow: 2px 2px 4px powderblue;
+font-size: 72px;
+line-height: 100px;
+}
+
+#circle {
+	position: absolute;
+  	right: 20%;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;
+  }
+
+  #circle2 {
+  	position: absolute;
+  	right: 10%;
+  	top:20%;
+  	color:blue;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;
+  }
+
+  #circle3 {
+  	position: absolute;
+  	right: 40%;
+  	top:30%;
+  	color:blue;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;}
+
+    #circle4 {
+  	position: absolute;
+  	right: 20%;
+  	top:50%;
+  	color:blue;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;}
+
+      #circle5 {
+  	position: absolute;
+  	right: 30%;
+  	top:10%;
+  	color:blue;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;}
+
+      #circle6 {
+  	position: absolute;
+  	right: 30%;
+  	top:40%;
+  	color:blue;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;}
+
+      #circle7 {
+  	position: absolute;
+  	right: 25%;
+  	top:28%;
+  	color:blue;
+      width: 10px;
+      height: 10px;
+      background: powderblue;
+      border-radius: 50%;
+      animation-name:shape;
+      animation-duration: 4s;
+      animation-iteration-count: 10;}
+  
+
+@keyframes shape { from{ transform: translateY(0);}
+	to { transform: rotate(-45deg);
+		transform: translateY(32000%);
+
+	}

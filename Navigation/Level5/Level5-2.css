@@ -1,0 +1,954 @@
+body {
+  background: black;}
+
+#L1 {color:black;
+	font-size: 150px;
+}
+#L1:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumpurple;
+}
+#L2 {color:black;
+	font-size: 150px;
+}
+#L2:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: blueviolet;
+}
+#L3{color:black;
+	font-size: 150px;
+}
+#L3:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkviolet;
+}
+#L4{color:black;
+	font-size: 150px;
+}
+#L4:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkorchid;
+}
+#L5{color:black;
+	font-size: 150px;
+}
+#L5:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkmagenta;
+}
+#L6{color:black;
+	font-size: 150px;
+}
+#L6:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: purple;
+}
+#L7{color:black;
+	font-size: 150px;
+}
+#L7:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: indigo;
+}
+#L8{color:black;
+	font-size: 150px;
+}
+#L8:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkslateblue;
+}
+#L9{color:black;
+	font-size: 150px;
+}
+#L9:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: slateblue;
+}
+#L10{color:black;
+	font-size: 150px;
+}
+#L10:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumslateblue;
+}
+#L11{color:black;
+	font-size: 150px;
+}
+#L11:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumorchid;
+}
+#L12{color:black;
+	font-size: 150px;
+}
+#L12:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: magenta;
+}
+#L13{color:black;
+	font-size: 150px;
+}
+#L13:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: fuchsia;
+}
+#L14{color:black;
+	font-size: 150px;
+}
+#L14:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: orchid;
+}
+#L15{color:black;
+	font-size: 150px;
+}
+#L15:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: violet;
+}
+#L16{color:black;
+	font-size: 150px;
+}
+#L16:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: plum;
+}
+#L17{color:black;
+	font-size: 150px;
+}
+#L17:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumvioletred;
+}
+#L18{color:black;
+	font-size: 150px;
+}
+#L18:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: midnightblue;
+}
+#L19{color:black;
+	font-size: 150px;
+}
+#L19:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: navy;
+}
+#L20{color:black;
+	font-size: 150px;
+}
+#L20:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkblue;
+}
+#L21{color:black;
+	font-size: 150px;
+}
+#L21:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumblue;
+}
+#L22{color:black;
+	font-size: 150px;
+}
+#L22:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: blue;
+}
+#L23{color:black;
+	font-size: 150px;
+}
+#L23:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: royalblue;
+}
+#L24{color:black;
+	font-size: 150px;
+}
+#L24:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: cornflowerblue;
+}
+#L25{color:black;
+	font-size: 150px;
+}
+#L25:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: dodgerblue;
+}
+#L26{color:black;
+	font-size: 150px;
+}
+#L26:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: deepskyblue;
+}
+#L27{color:black;
+	font-size: 150px;
+}
+#L27:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lightskyblue;
+}
+#L28{color:black;
+	font-size: 150px;
+}
+#L28:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: skyblue;
+}
+#L29{color:black;
+	font-size: 150px;
+}
+#L29:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lightblue;
+}
+#L30{color:black;
+	font-size: 150px;
+}
+#L30:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkturquoise;
+}
+#L31{color:black;
+	font-size: 150px;
+}
+#L31:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumturquoise;
+}
+#L32{color:black;
+	font-size: 150px;
+}
+#L32:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: turquoise;
+}
+#L33{color:black;
+	font-size: 150px;
+}
+#L33:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: aquamarine;
+}
+#L34{color:black;
+	font-size: 150px;
+}
+#L34:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: paleturquoise;
+}
+#L35{color:black;
+	font-size: 150px;
+}
+#L35:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lightseagreen;
+}
+#L36{color:black;
+	font-size: 150px;
+}
+#L36:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: aqua;
+}
+#L37{color:black;
+	font-size: 150px;
+}
+#L37:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: cyan;
+}
+#L38{color:black;
+	font-size: 150px;
+}
+#L38:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: teal;
+}
+#L39{color:black;
+	font-size: 150px;
+}
+#L39:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkcyan;
+}
+#L40{color:black;
+	font-size: 150px;
+}
+#L40:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkseagreen;
+}
+#L41{color:black;
+	font-size: 150px;
+}
+#L41:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumaquamarine;
+}
+#L42{color:black;
+	font-size: 150px;
+}
+#L42:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkolivegreen;
+}
+#L43{color:black;
+	font-size: 150px;
+}
+#L43:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: olive;
+}
+#L44{color:black;
+	font-size: 150px;
+}
+#L44:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: olivedrab;
+}
+#L45{color:black;
+	font-size: 150px;
+}
+#L45:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: yellowgreen;
+}
+#L46{color:black;
+	font-size: 150px;
+}
+#L46:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkgreen;
+}
+#L47{color:black;
+	font-size: 150px;
+}
+#L47:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: green;
+}
+#L48{color:black;
+	font-size: 150px;
+}
+#L48:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: forestgreen;
+}
+#L49{color:black;
+	font-size: 150px;
+}
+#L49:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: yellow;
+}
+#L50{color:black;
+	font-size: 150px;
+}
+#L50:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: gold;
+}
+#L51{color:black;
+	font-size: 150px;
+}
+#L51:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: orange;
+}
+#L52{color:black;
+	font-size: 150px;
+}
+#L52:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkorange;
+}
+#L53{color:black;
+	font-size: 150px;
+}
+#L53:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: tomato;
+}
+#L54{color:black;
+	font-size: 150px;
+}
+#L54:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: orangered;
+}
+#L55{color:black;
+	font-size: 150px;
+}
+#L55:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: indianred;
+}
+#L56{color:black;
+	font-size: 150px;
+}
+#L56:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: brown;
+}
+#L57{color:black;
+	font-size: 150px;
+}
+#L57:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: firebrick;
+}
+#L58{color:black;
+	font-size: 150px;
+}
+#L58:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: maroon;
+}
+#L59{color:black;
+	font-size: 150px;
+}
+#L59:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkred;
+}
+#L60{color:black;
+	font-size: 150px;
+}
+#L60:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: red;
+}
+#L61{color:black;
+	font-size: 150px;
+}
+#L61:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: crimson;
+}
+#L62{color:black;
+	font-size: 150px;
+}
+#L62:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumvioletred;
+}
+#L63{color:black;
+	font-size: 150px;
+}
+#L63:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: deeppink;
+}
+#L64{color:black;
+	font-size: 150px;
+}
+#L64:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumvioletred;
+}
+#L65{color:black;
+	font-size: 150px;
+}
+#L65:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: hotpink;
+}
+#L66{color:black;
+	font-size: 150px;
+}
+#L66:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: palevioletred;
+}
+#L67{color:black;
+	font-size: 150px;
+}
+#L67:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: pink;
+}
+#L68{color:black;
+	font-size: 150px;
+}
+#L68:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lightpink;
+}
+#L69{color:black;
+	font-size: 150px;
+}
+#L69:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lavenderblush;
+}
+#L70{color:black;
+	font-size: 150px;
+}
+#L70:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+#L71{color:black;
+	font-size: 150px;
+}
+#L71:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: ghostwhite;
+}
+#L150{color:black;
+	font-size: 150px;
+}
+#L150:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lavender;
+}
+#L73{color:black;
+	font-size: 150px;
+}
+#L73:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: lightsteelblue;
+}
+#L74{color:black;
+	font-size: 150px;
+}
+#L74:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: steelblue;
+}
+#L75{color:black;
+	font-size: 150px;
+}
+#L75:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: cornflowerblue;
+}
+#L76{color:black;
+	font-size: 150px;
+}
+#L76:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: royalblue;
+}
+#L77{color:black;
+	font-size: 150px;
+}
+#L77:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumblue;
+}
+#L78{color:black;
+	font-size: 150px;
+}
+#L78:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkblue;
+}
+#L79{color:black;
+	font-size: 150px;
+}
+#L79:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: navy;
+}
+#L80{color:black;
+	font-size: 150px;
+}
+#L80:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: slateblue;
+}
+#L81{color:black;
+	font-size: 150px;
+}
+#L81:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: darkslateblue;
+}
+#L82{color:black;
+	font-size: 150px;
+}
+#L82:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumslateblue;
+}
+#L83{color:black;
+	font-size: 150px;
+}
+#L83:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: mediumpurple;
+}
+#L84{color:black;
+	font-size: 150px;
+}
+#L84:hover {border: inset 1.4px;
+		border-color: black;
+	background: black;
+	color: black;
+	 -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rebeccapurple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
