@@ -94,7 +94,7 @@ body {
       width: 2.25vw;
       height:2.25vw;
       background: black;
-      position: absolute;
+      position: fixed;
       border-radius: 50%;
       top:50.5%;
       left: 63%;
@@ -115,7 +115,7 @@ a:link{
       width: 2.25vw;
       height:2.25vw;
       background: black;
-      position: absolute;
+      position: fixed;
       border-radius: 50%;
       top:50.5%;
       left: 65.6%;
