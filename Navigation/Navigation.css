@@ -199,24 +199,31 @@ a:link{
 	background: white;
 	color: black;}
 
+  #title { color: white;
+    position: absolute;
+    font-size: 42px;
+    left: 28.5%;
+    top:22%;
+    font-family:Playfair Display SC;}
+
 	#title1 { color: white;
 		position: absolute;
 		font-size: 42px;
 		left: 28.5%;
-		top:50%;
+		top:30%;
 		font-family:Playfair Display SC;
 	 }
 	#title2 { color: white;
 		position: absolute;
 		font-size: 25px;
-		left: 37%;
-		top:60%;
+		left: 39%;
+		top:81%;
 		font-family: avenir;}
 	#title3 { color: white;
 		position: absolute;
 		font-size: 42px;
-		left: 34%;
-		top:67%;
+		left: 39%;
+		top:87%;
 		font-family:Playfair Display SC; }
 
 
