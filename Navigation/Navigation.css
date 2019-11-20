@@ -207,20 +207,20 @@ a:link{
     font-family:Playfair Display SC;}
 
 	#title1 { color: white;
-		position: absolute;
+		position: fixed;
 		font-size: 42px;
 		left: 28.5%;
 		top:30%;
 		font-family:Playfair Display SC;
 	 }
 	#title2 { color: white;
-		position: absolute;
+		position: fixed;
 		font-size: 25px;
 		left: 39%;
 		top:81%;
 		font-family: avenir;}
 	#title3 { color: white;
-		position: absolute;
+		position: fixed;
 		font-size: 42px;
 		left: 39%;
 		top:87%;
