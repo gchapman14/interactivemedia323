@@ -6,7 +6,8 @@ left: 5%;
 top: 90%;
 font-family: Roboto;}
 
-a:link {text-decoration: none;}
+a:link {text-decoration: none;
+color:white;}
 a:visited {text-decoration: none;
 color: white;}
 a:hover {color: darkcyan;
