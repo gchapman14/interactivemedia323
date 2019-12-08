@@ -1,0 +1,20 @@
+a:link
+{
+text-decoration:none;
+}
+
+a:visited {text-decoration: none;
+color: white;}
+
+
+body {background-color: #f21d55;
+color:white;
+font-size: 170px;
+text-align: center;
+font-family: Roboto;}
+
+#L1 {display: inline;}
+#L2 {display: inline;}
+
+a:hover {color: #f21d55;
+transition:1s; }

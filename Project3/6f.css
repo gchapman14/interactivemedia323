@@ -1,0 +1,11 @@
+body {background: #442d32;
+font-size: 190px;
+color:white;
+text-align: center;
+font-family: Roboto;}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;
+color: white;}
+a:hover {color: #442d32;
+transition: 1s;}

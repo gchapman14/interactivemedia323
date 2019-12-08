@@ -1,0 +1,13 @@
+body {background: seagreen;
+font-size: 30px;
+color:white;
+position: absolute;
+left: 5%;
+top: 60%;
+font-family: Roboto;}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;
+color: white;}
+a:hover {color: seagreen;
+transition: 1s;}

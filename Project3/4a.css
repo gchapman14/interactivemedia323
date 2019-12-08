@@ -1,0 +1,10 @@
+body {background-color: #bc75c6;
+font-size: 72px;
+text-align: center;
+font-family: Roboto;}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;
+color: black;}
+a:hover {color: #bc75c6;
+transition: 1s;}
